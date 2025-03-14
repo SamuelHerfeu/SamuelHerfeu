@@ -1,9 +1,7 @@
-#  Samuel Herfeu
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<br>
-"Meu nome é Samuel da Silva Ramos. Sou uma pessoa apaixonada por tecnologia e dedico meu tempo à busca de conhecimento nessa área. Atualmente, estou me graduando em Engenharia de Softwear, em uma transição da área de manutenção para o mundo do desenvolvimento. Gosto de me descrever como alguém persistente, curioso, autodidata, determinado e criativo, entre outros adjetivos que refletem minha personalidade. Estou sempre em busca de novas oportunidades para crescer, aprender e me conectar com o mundo ao meu redor."
-<br>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Samuel+Herfeu;I+am+graduating+in+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
 
 <a href="https://beacons.ai/samuelherfeu">
   
@@ -24,7 +22,7 @@
         />
     </a>
 </p>
-### 🤖 Linguagens e Tecnologias
+### <img width=100% src=> Languages ​​and Technologies
 <br>
 <br>
 
@@ -76,6 +74,22 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -96,5 +110,11 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelHerfeu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+<br>
+<body background="https://i.pinimg.com/736x/a1/b8/33/a1b8339973b19cea9bd8a3da97339283.jpg">
+
+
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SamuelHerfeu}/count.svg" /></p> 
+<br></div>
