@@ -6,7 +6,6 @@
 </p>
 <h2>Languages ​​and Technologies
 </h2>
-<br>
 
 <img 
     align="left" 
