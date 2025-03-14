@@ -1,6 +1,5 @@
 #  Samuel Herfeu
 
-**`Desenvolvedor ABAP`**
 **`Engenharia de Softwear`**
 
 <div>
