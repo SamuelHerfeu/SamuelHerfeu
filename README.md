@@ -3,23 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Samuel+Herfeu;I+am+graduating+in+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
-<a href="https://beacons.ai/samuelherfeu">
+
   
-</div>
-<p align="left">
-    <a href="https://github.com/SamuelHerfeu?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SamuelHerfeu?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/SamuelHerfeu?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SamuelHerfeu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+
     </a>
 </p>
 <h2>Languages ​​and Technologies
@@ -100,7 +86,21 @@
 <br/>
 
 <body background="https://i.pinimg.com/736x/a1/b8/33/a1b8339973b19cea9bd8a3da97339283.jpg">
-
+</div>
+<p align="left">
+    <a href="https://github.com/SamuelHerfeu?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/SamuelHerfeu?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/SamuelHerfeu?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/SamuelHerfeu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
 </div>
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{SamuelHerfeu}/count.svg" /></p> 
