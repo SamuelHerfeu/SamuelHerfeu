@@ -2,7 +2,8 @@
 
 <br>
 "Meu nome é Samuel da Silva Ramos. Sou uma pessoa apaixonada por tecnologia e dedico meu tempo à busca de conhecimento nessa área. Atualmente, estou me graduando em Engenharia de Softwear, em uma transição da área de manutenção para o mundo do desenvolvimento. Gosto de me descrever como alguém persistente, curioso, autodidata, determinado e criativo, entre outros adjetivos que refletem minha personalidade. Estou sempre em busca de novas oportunidades para crescer, aprender e me conectar com o mundo ao meu redor."
-<div>
+<br>
+
 <a href="https://beacons.ai/samuelherfeu">
   
 </div>
