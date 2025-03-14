@@ -22,8 +22,8 @@
         />
     </a>
 </p>
-### <img width=100% src=> Languages ​​and Technologies
-<br>
+<h2>Languages ​​and Technologies
+</h2>
 <br>
 
 <img 
